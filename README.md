@@ -11,4 +11,8 @@ Este repositorio contiene un clásico juego de **Tres en Raya** implementado en 
 
 ![gif tic tac toe](https://github.com/JuanmpDev/tic-tac-toe-react/assets/145140564/9ef1a837-7685-4b50-a038-e4b052a7d40c)
 
+Para ver el proyecto en acción, visita este enlace:
+
+https://juanmpdev.github.io/tic-tac-toe-react/
+
 
